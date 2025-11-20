@@ -1,3 +1,3 @@
 # national-flag
 分享世界各国国旗 SVG；
-![cn](./country_flag/CN.svg){width=30px height=20px}
+<img src="./country_flag/CN.svg" width="30" height="20">
