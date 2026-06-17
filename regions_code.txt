@@ -1,0 +1,38 @@
+阿克罗蒂里和泽凯利亚（英国）,亚克罗提利与德凯利亚主权基地区,Akrotiri and Dhekelia,无
+奥兰（芬兰）,奥兰区,Åland,AX-ALA-248
+美属萨摩亚（美国）,美属萨摩亚,American Samoa,AS-ASM-016
+安圭拉 （英国）,安圭拉,Anguilla,AI-AIA-660
+阿鲁巴（荷兰）,阿鲁巴国,Aruba,AW-ABW-533
+百慕大（英国）,百慕大,Bermuda,BM-BMU-060
+开曼群岛（英国）,开曼群岛,Cayman Islands,KY-CYM-136
+圣诞岛（澳大利亚）,圣诞岛领地,Christmas Island,CX-CXR-162
+科科斯（基林）群岛（澳大利亚）,科科斯（基林）群岛领地,Cocos (Keeling) Islands,CC-CCK-166
+库拉索（荷兰）,库拉索国,Curaçao,CW-CUW-531
+福克兰群岛（英国）,福克兰群岛[注 25]（马尔维纳斯群岛）[注 26],Falkland Islands (Islas Malvinas),FK-FLK-238
+法罗群岛（丹麦）,法罗群岛,Faroe Islands,FO-FRO-234
+法属波利尼西亚（法国）,法属波利尼西亚,French Polynesia,PF-PYF-258
+直布罗陀（英国）,直布罗陀[注 27],Gibraltar,GI-GIB-292
+格陵兰（丹麦）,格陵兰,Greenland,GL-GRL-304
+关岛（美国）,关岛,Guam,GU-GUM-316
+根西（英国）,根西行政区,Guernsey,GG-GGY-831
+香港（中国）,香港特别行政区,Hong Kong,HK-HKG-344
+马恩岛（英国）,马恩岛,Isle of Man,IM-IMN-833
+泽西（英国）,泽西行政区,Jersey,JE-JEY-832
+澳门（中国）,澳门特别行政区,Macau,MO-MAC-446
+蒙特塞拉特（英国）,蒙特塞拉特,Montserrat,MS-MSR-500
+新喀里多尼亚（法国）,新喀里多尼亚,New Caledonia,NC-NCL-540
+诺福克岛（澳大利亚）,诺福克岛领地,Norfolk Island,NF-NFK-574
+北马里亚纳群岛（美国）,北马里亚纳群岛联邦,Northern Mariana Islands,MP-MNP-580
+皮特凯恩群岛（英国）,皮特凯恩、亨德森、迪西和奥埃诺群岛,Pitcairn Islands,PN-PCN-612
+波多黎各（美国）,波多黎各自由邦,Puerto Rico,PR-PRI-630
+圣巴泰勒米（法国）,圣巴泰勒米集体,Saint Barthelemy,BL-BLM-652
+圣赫勒拿、阿森松和特里斯坦-达库尼亚（英国）,圣赫勒拿、阿森松和特里斯坦-达库尼亚,Saint Helena, Ascension and Tristan da Cunha,SH-SHN-654
+圣皮埃尔和密克隆（法国）,圣皮埃尔和密克隆海外集体,Saint Pierre and Miquelon,PM-SPM-666
+法属圣马丁（法国）,圣马丁集体,Saint Martin,MF-MAF-663
+荷属圣马丁（荷兰）,圣马丁,Sint Maarten,SX-SXM-534
+斯瓦尔巴和扬马延（挪威）,斯瓦尔巴和扬马延,Svalbard and Jan Mayen,SJ-SJM-744
+托克劳（新西兰）,托克劳,Tokelau,TK-TKL-772
+特克斯和凯科斯群岛（英国）,特克斯和凯科斯群岛,Turks and Caicos Islands,TC-TCA-796
+英属维尔京群岛（英国）,维尔京群岛,Virgin Islands, British,VG-VGB-092
+美属维尔京群岛（美国）,美属维尔京群岛,Virgin Islands, United States,VI-VIR-850
+瓦利斯和富图纳（法国）,瓦利斯和富图纳属地,Wallis and Futuna,WF-WLF-876
