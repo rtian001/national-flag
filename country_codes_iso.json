@@ -1,0 +1,2002 @@
+[
+    {
+        "country_cn": "阿富汗",
+        "country": "Afghanistan",
+        "ico": "AFG",
+        "fifa": "AFG",
+        "iso": "AFG",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg"
+    },
+    {
+        "country_cn": "奥兰",
+        "country": "Åland Islands",
+        "ico": "",
+        "fifa": "",
+        "iso": "ALA",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/5/52/Flag_of_%C3%85land.svg"
+    },
+    {
+        "country_cn": "阿尔巴尼亚",
+        "country": "Albania",
+        "ico": "ALB",
+        "fifa": "ALB",
+        "iso": "ALB",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg"
+    },
+    {
+        "country_cn": "阿尔及利亚",
+        "country": "Algeria",
+        "ico": "ALG",
+        "fifa": "ALG",
+        "iso": "DZA",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg"
+    },
+    {
+        "country_cn": "美属萨摩亚",
+        "country": "American Samoa",
+        "ico": "ASA",
+        "fifa": "ASA",
+        "iso": "ASM",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/8/87/Flag_of_American_Samoa.svg"
+    },
+    {
+        "country_cn": "安道尔",
+        "country": "Andorra",
+        "ico": "AND",
+        "fifa": "AND",
+        "iso": "AND",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg"
+    },
+    {
+        "country_cn": "安哥拉",
+        "country": "Angola",
+        "ico": "ANG",
+        "fifa": "ANG",
+        "iso": "AGO",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg"
+    },
+    {
+        "country_cn": "安圭拉",
+        "country": "Anguilla",
+        "ico": "",
+        "fifa": "AIA",
+        "iso": "AIA",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Anguilla.svg"
+    },
+    {
+        "country_cn": "南极洲",
+        "country": "Antarctica",
+        "ico": "",
+        "fifa": "",
+        "iso": "ATA",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Proposed_flag_of_Antarctica_%28Graham_Bartram%29.svg"
+    },
+    {
+        "country_cn": "安提瓜和巴布达",
+        "country": "Antigua and Barbuda",
+        "ico": "ANT",
+        "fifa": "ATG",
+        "iso": "ATG",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg"
+    },
+    {
+        "country_cn": "阿根廷",
+        "country": "Argentina",
+        "ico": "ARG",
+        "fifa": "ARG",
+        "iso": "ARG",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg"
+    },
+    {
+        "country_cn": "亚美尼亚",
+        "country": "Armenia",
+        "ico": "ARM",
+        "fifa": "ARM",
+        "iso": "ARM",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg"
+    },
+    {
+        "country_cn": "阿鲁巴",
+        "country": "Aruba",
+        "ico": "ARU",
+        "fifa": "ARU",
+        "iso": "ABW",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Aruba.svg"
+    },
+    {
+        "country_cn": "澳大利亚",
+        "country": "Australia",
+        "ico": "AUS",
+        "fifa": "AUS",
+        "iso": "AUS",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg"
+    },
+    {
+        "country_cn": "奥地利",
+        "country": "Austria",
+        "ico": "AUT",
+        "fifa": "AUT",
+        "iso": "AUT",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg"
+    },
+    {
+        "country_cn": "阿塞拜疆",
+        "country": "Azerbaijan",
+        "ico": "AZE",
+        "fifa": "AZE",
+        "iso": "AZE",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg"
+    },
+    {
+        "country_cn": "巴哈马",
+        "country": "The Bahamas",
+        "ico": "BAH",
+        "fifa": "BAH",
+        "iso": "BHS",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg"
+    },
+    {
+        "country_cn": "巴林",
+        "country": "Bahrain",
+        "ico": "BRN",
+        "fifa": "BHR",
+        "iso": "BHR",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg"
+    },
+    {
+        "country_cn": "孟加拉国",
+        "country": "Bangladesh",
+        "ico": "BAN",
+        "fifa": "BAN",
+        "iso": "BGD",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg"
+    },
+    {
+        "country_cn": "巴巴多斯",
+        "country": "Barbados",
+        "ico": "BAR",
+        "fifa": "BRB",
+        "iso": "BRB",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Barbados.svg"
+    },
+    {
+        "country_cn": "白俄罗斯",
+        "country": "Belarus",
+        "ico": "BLR",
+        "fifa": "BLR",
+        "iso": "BLR",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg"
+    },
+    {
+        "country_cn": "比利时",
+        "country": "Belgium",
+        "ico": "BEL",
+        "fifa": "BEL",
+        "iso": "BEL",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Belgium_%28civil%29.svg"
+    },
+    {
+        "country_cn": "伯利兹",
+        "country": "Belize",
+        "ico": "BIZ",
+        "fifa": "BLZ",
+        "iso": "BLZ",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Belize.svg"
+    },
+    {
+        "country_cn": "贝宁",
+        "country": "Benin",
+        "ico": "BEN",
+        "fifa": "BEN",
+        "iso": "BEN",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg"
+    },
+    {
+        "country_cn": "百慕大",
+        "country": "Bermuda",
+        "ico": "BER",
+        "fifa": "BER",
+        "iso": "BMU",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bermuda.svg"
+    },
+    {
+        "country_cn": "不丹",
+        "country": "Bhutan",
+        "ico": "BHU",
+        "fifa": "BHU",
+        "iso": "BTN",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg"
+    },
+    {
+        "country_cn": "玻利维亚",
+        "country": "Bolivia",
+        "ico": "BOL",
+        "fifa": "BOL",
+        "iso": "BOL",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Bolivia.svg"
+    },
+    {
+        "country_cn": "荷兰加勒比区",
+        "country": "Bonaire, Sint Eustatius and Saba",
+        "ico": "",
+        "fifa": "",
+        "iso": "BES",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg"
+    },
+    {
+        "country_cn": "波黑",
+        "country": "Bosnia and Herzegovina",
+        "ico": "BIH",
+        "fifa": "BIH",
+        "iso": "BIH",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg"
+    },
+    {
+        "country_cn": "博茨瓦纳",
+        "country": "Botswana",
+        "ico": "BOT",
+        "fifa": "BOT",
+        "iso": "BWA",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Botswana.svg"
+    },
+    {
+        "country_cn": "布韦岛",
+        "country": "Bouvet Island",
+        "ico": "",
+        "fifa": "",
+        "iso": "BVT",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg"
+    },
+    {
+        "country_cn": "巴西",
+        "country": "Brazil",
+        "ico": "BRA",
+        "fifa": "BRA",
+        "iso": "BRA",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg"
+    },
+    {
+        "country_cn": "英属印度洋领地",
+        "country": "British Indian Ocean Territory",
+        "ico": "",
+        "fifa": "",
+        "iso": "IOT",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_the_Commissioner_of_the_British_Indian_Ocean_Territory.svg"
+    },
+    {
+        "country_cn": "英属维尔京群岛",
+        "country": "British Virgin Islands",
+        "ico": "IVB",
+        "fifa": "VGB",
+        "iso": "VGB",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_British_Virgin_Islands.svg"
+    },
+    {
+        "country_cn": "文莱",
+        "country": "Brunei",
+        "ico": "BRU",
+        "fifa": "BRU",
+        "iso": "BRN",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Brunei.svg"
+    },
+    {
+        "country_cn": "保加利亚",
+        "country": "Bulgaria",
+        "ico": "BUL",
+        "fifa": "BUL",
+        "iso": "BGR",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg"
+    },
+    {
+        "country_cn": "布基纳法索",
+        "country": "Burkina Faso",
+        "ico": "BUR",
+        "fifa": "BFA",
+        "iso": "BFA",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg"
+    },
+    {
+        "country_cn": "布隆迪",
+        "country": "Burundi",
+        "ico": "BDI",
+        "fifa": "BDI",
+        "iso": "BDI",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg"
+    },
+    {
+        "country_cn": "柬埔寨",
+        "country": "Cambodia",
+        "ico": "CAM",
+        "fifa": "CAM",
+        "iso": "KHM",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg"
+    },
+    {
+        "country_cn": "喀麦隆",
+        "country": "Cameroon",
+        "ico": "CMR",
+        "fifa": "CMR",
+        "iso": "CMR",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg"
+    },
+    {
+        "country_cn": "加拿大",
+        "country": "Canada",
+        "ico": "CAN",
+        "fifa": "CAN",
+        "iso": "CAN",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg"
+    },
+    {
+        "country_cn": "佛得角",
+        "country": "Cape Verde",
+        "ico": "CPV",
+        "fifa": "CPV",
+        "iso": "CPV",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Cape_Verde.svg"
+    },
+    {
+        "country_cn": "开曼群岛",
+        "country": "Cayman Islands",
+        "ico": "CAY",
+        "fifa": "CAY",
+        "iso": "CYM",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_the_Cayman_Islands.svg"
+    },
+    {
+        "country_cn": "中非",
+        "country": "Central African Republic",
+        "ico": "CAF",
+        "fifa": "CTA",
+        "iso": "CAF",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Central_African_Republic.svg"
+    },
+    {
+        "country_cn": "乍得",
+        "country": "Chad",
+        "ico": "CHA",
+        "fifa": "CHA",
+        "iso": "TCD",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg"
+    },
+    {
+        "country_cn": "智利",
+        "country": "Chile",
+        "ico": "CHI",
+        "fifa": "CHI",
+        "iso": "CHL",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg"
+    },
+    {
+        "country_cn": "中华人民共和国",
+        "country": "People's Republic of China",
+        "ico": "CHN",
+        "fifa": "CHN",
+        "iso": "CHN",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg"
+    },
+    {
+        "country_cn": "圣诞岛",
+        "country": "Christmas Island",
+        "ico": "",
+        "fifa": "",
+        "iso": "CXR",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/6/67/Flag_of_Christmas_Island.svg"
+    },
+    {
+        "country_cn": "科科斯（基林）群岛",
+        "country": "Cocos (Keeling) Islands",
+        "ico": "",
+        "fifa": "",
+        "iso": "CCK",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Flag_of_the_Cocos_%28Keeling%29_Island.svg"
+    },
+    {
+        "country_cn": "哥伦比亚",
+        "country": "Colombia",
+        "ico": "COL",
+        "fifa": "COL",
+        "iso": "COL",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg"
+    },
+    {
+        "country_cn": "科摩罗",
+        "country": "Comoros",
+        "ico": "COM",
+        "fifa": "COM",
+        "iso": "COM",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg"
+    },
+    {
+        "country_cn": "刚果民主共和国",
+        "country": "Democratic Republic of the Congo",
+        "ico": "COD",
+        "fifa": "COD",
+        "iso": "COD",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg"
+    },
+    {
+        "country_cn": "刚果共和国",
+        "country": "Republic of the Congo",
+        "ico": "CGO",
+        "fifa": "CGO",
+        "iso": "COG",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg"
+    },
+    {
+        "country_cn": "库克群岛",
+        "country": "Cook Islands",
+        "ico": "COK",
+        "fifa": "COK",
+        "iso": "COK",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_the_Cook_Islands.svg"
+    },
+    {
+        "country_cn": "哥斯达黎加",
+        "country": "Costa Rica",
+        "ico": "CRC",
+        "fifa": "CRC",
+        "iso": "CRI",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg"
+    },
+    {
+        "country_cn": "科特迪瓦",
+        "country": "Côte d'Ivoire",
+        "ico": "CIV",
+        "fifa": "CIV",
+        "iso": "CIV",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg"
+    },
+    {
+        "country_cn": "克罗地亚",
+        "country": "Croatia",
+        "ico": "CRO",
+        "fifa": "CRO",
+        "iso": "HRV",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg"
+    },
+    {
+        "country_cn": "古巴",
+        "country": "Cuba",
+        "ico": "CUB",
+        "fifa": "CUB",
+        "iso": "CUB",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg"
+    },
+    {
+        "country_cn": "库拉索",
+        "country": "Curaçao",
+        "ico": "",
+        "fifa": "CUW",
+        "iso": "CUW",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_Cura%C3%A7ao.svg"
+    },
+    {
+        "country_cn": "塞浦路斯",
+        "country": "Cyprus",
+        "ico": "CYP",
+        "fifa": "CYP",
+        "iso": "CYP",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg"
+    },
+    {
+        "country_cn": "捷克",
+        "country": "Czech Republic",
+        "ico": "CZE",
+        "fifa": "CZE",
+        "iso": "CZE",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg"
+    },
+    {
+        "country_cn": "丹麦",
+        "country": "Denmark",
+        "ico": "DEN",
+        "fifa": "DEN",
+        "iso": "DNK",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg"
+    },
+    {
+        "country_cn": "吉布提",
+        "country": "Djibouti",
+        "ico": "DJI",
+        "fifa": "DJI",
+        "iso": "DJI",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_Djibouti.svg"
+    },
+    {
+        "country_cn": "多米尼克",
+        "country": "Dominica",
+        "ico": "DMA",
+        "fifa": "DMA",
+        "iso": "DMA",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Dominica.svg"
+    },
+    {
+        "country_cn": "多米尼加",
+        "country": "Dominican Republic",
+        "ico": "DOM",
+        "fifa": "DOM",
+        "iso": "DOM",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Dominican_Republic.svg"
+    },
+    {
+        "country_cn": "厄瓜多尔",
+        "country": "Ecuador",
+        "ico": "ECU",
+        "fifa": "ECU",
+        "iso": "ECU",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg"
+    },
+    {
+        "country_cn": "埃及",
+        "country": "Egypt",
+        "ico": "EGY",
+        "fifa": "EGY",
+        "iso": "EGY",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg"
+    },
+    {
+        "country_cn": "萨尔瓦多",
+        "country": "El Salvador",
+        "ico": "ESA",
+        "fifa": "SLV",
+        "iso": "SLV",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_El_Salvador.svg"
+    },
+    {
+        "country_cn": "赤道几内亚",
+        "country": "Equatorial Guinea",
+        "ico": "GEQ",
+        "fifa": "EQG",
+        "iso": "GNQ",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg"
+    },
+    {
+        "country_cn": "厄立特里亚",
+        "country": "Eritrea",
+        "ico": "ERI",
+        "fifa": "ERI",
+        "iso": "ERI",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Eritrea.svg"
+    },
+    {
+        "country_cn": "爱沙尼亚",
+        "country": "Estonia",
+        "ico": "EST",
+        "fifa": "EST",
+        "iso": "EST",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg"
+    },
+    {
+        "country_cn": "斯威士兰",
+        "country": "Eswatini",
+        "ico": "SWZ",
+        "fifa": "SWZ",
+        "iso": "SWZ",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Eswatini.svg"
+    },
+    {
+        "country_cn": "埃塞俄比亚",
+        "country": "Ethiopia",
+        "ico": "ETH",
+        "fifa": "ETH",
+        "iso": "ETH",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg"
+    },
+    {
+        "country_cn": "福克兰群岛",
+        "country": "Falkland Islands",
+        "ico": "",
+        "fifa": "",
+        "iso": "FLK",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_Falkland_Islands.svg"
+    },
+    {
+        "country_cn": "法罗群岛",
+        "country": "Faroe Islands",
+        "ico": "",
+        "fifa": "FRO",
+        "iso": "FRO",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Flag_of_the_Faroe_Islands.svg"
+    },
+    {
+        "country_cn": "斐济",
+        "country": "Fiji",
+        "ico": "FIJ",
+        "fifa": "FIJ",
+        "iso": "FJI",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg"
+    },
+    {
+        "country_cn": "芬兰",
+        "country": "Finland",
+        "ico": "FIN",
+        "fifa": "FIN",
+        "iso": "FIN",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg"
+    },
+    {
+        "country_cn": "法国",
+        "country": "France",
+        "ico": "FRA",
+        "fifa": "FRA",
+        "iso": "FRA",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg"
+    },
+    {
+        "country_cn": "法属圭亚那",
+        "country": "French Guiana",
+        "ico": "",
+        "fifa": "",
+        "iso": "GUF",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg"
+    },
+    {
+        "country_cn": "法属波利尼西亚",
+        "country": "French Polynesia",
+        "ico": "",
+        "fifa": "TAH",
+        "iso": "PYF",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/d/db/Flag_of_French_Polynesia.svg"
+    },
+    {
+        "country_cn": "法属南部和南极领地",
+        "country": "French Southern and Antarctic Lands",
+        "ico": "",
+        "fifa": "",
+        "iso": "ATF",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Flag_of_the_French_Southern_and_Antarctic_Lands.svg"
+    },
+    {
+        "country_cn": "加蓬",
+        "country": "Gabon",
+        "ico": "GAB",
+        "fifa": "GAB",
+        "iso": "GAB",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg"
+    },
+    {
+        "country_cn": "冈比亚",
+        "country": "The Gambia",
+        "ico": "GAM",
+        "fifa": "GAM",
+        "iso": "GMB",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg"
+    },
+    {
+        "country_cn": "格鲁吉亚",
+        "country": "Georgia",
+        "ico": "GEO",
+        "fifa": "GEO",
+        "iso": "GEO",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg"
+    },
+    {
+        "country_cn": "德国",
+        "country": "Germany",
+        "ico": "GER",
+        "fifa": "GER",
+        "iso": "DEU",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg"
+    },
+    {
+        "country_cn": "加纳",
+        "country": "Ghana",
+        "ico": "GHA",
+        "fifa": "GHA",
+        "iso": "GHA",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg"
+    },
+    {
+        "country_cn": "直布罗陀",
+        "country": "Gibraltar",
+        "ico": "",
+        "fifa": "GIB",
+        "iso": "GIB",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/0/02/Flag_of_Gibraltar.svg"
+    },
+    {
+        "country_cn": "希腊",
+        "country": "Greece",
+        "ico": "GRE",
+        "fifa": "GRE",
+        "iso": "GRC",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg"
+    },
+    {
+        "country_cn": "格陵兰",
+        "country": "Greenland",
+        "ico": "",
+        "fifa": "",
+        "iso": "GRL",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_Greenland.svg"
+    },
+    {
+        "country_cn": "格林纳达",
+        "country": "Grenada",
+        "ico": "GRN",
+        "fifa": "GRN",
+        "iso": "GRD",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Grenada.svg"
+    },
+    {
+        "country_cn": "瓜德罗普",
+        "country": "Guadeloupe",
+        "ico": "",
+        "fifa": "",
+        "iso": "GLP",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg"
+    },
+    {
+        "country_cn": "关岛",
+        "country": "Guam",
+        "ico": "GUM",
+        "fifa": "GUM",
+        "iso": "GUM",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/0/07/Flag_of_Guam.svg"
+    },
+    {
+        "country_cn": "危地马拉",
+        "country": "Guatemala",
+        "ico": "GUA",
+        "fifa": "GUA",
+        "iso": "GTM",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Flag_of_Guatemala.svg"
+    },
+    {
+        "country_cn": "根西",
+        "country": "Guernsey",
+        "ico": "",
+        "fifa": "",
+        "iso": "GGY",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Guernsey.svg"
+    },
+    {
+        "country_cn": "几内亚",
+        "country": "Guinea",
+        "ico": "GUI",
+        "fifa": "GUI",
+        "iso": "GIN",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_Guinea.svg"
+    },
+    {
+        "country_cn": "几内亚比绍",
+        "country": "Guinea-Bissau",
+        "ico": "GBS",
+        "fifa": "GNB",
+        "iso": "GNB",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Guinea-Bissau.svg"
+    },
+    {
+        "country_cn": "圭亚那",
+        "country": "Guyana",
+        "ico": "GUY",
+        "fifa": "GUY",
+        "iso": "GUY",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_Guyana.svg"
+    },
+    {
+        "country_cn": "海地",
+        "country": "Haiti",
+        "ico": "HAI",
+        "fifa": "HAI",
+        "iso": "HTI",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Haiti.svg"
+    },
+    {
+        "country_cn": "赫德岛和麦克唐纳群岛",
+        "country": "Heard Island and McDonald Islands",
+        "ico": "",
+        "fifa": "",
+        "iso": "HMD",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Flag_of_Australia.svg"
+    },
+    {
+        "country_cn": "洪都拉斯",
+        "country": "Honduras",
+        "ico": "HON",
+        "fifa": "HON",
+        "iso": "HND",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Honduras_%281949%E2%80%932022%2C_2026%E2%80%93present%29.svg"
+    },
+    {
+        "country_cn": "香港特别行政区",
+        "country": "Hong Kong",
+        "ico": "HKG",
+        "fifa": "HKG",
+        "iso": "HKG",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Flag_of_Hong_Kong.svg"
+    },
+    {
+        "country_cn": "匈牙利",
+        "country": "Hungary",
+        "ico": "HUN",
+        "fifa": "HUN",
+        "iso": "HUN",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg"
+    },
+    {
+        "country_cn": "冰岛",
+        "country": "Iceland",
+        "ico": "ISL",
+        "fifa": "ISL",
+        "iso": "ISL",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg"
+    },
+    {
+        "country_cn": "印度",
+        "country": "India",
+        "ico": "IND",
+        "fifa": "IND",
+        "iso": "IND",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg"
+    },
+    {
+        "country_cn": "印度尼西亚",
+        "country": "Indonesia",
+        "ico": "INA",
+        "fifa": "IDN",
+        "iso": "IDN",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg"
+    },
+    {
+        "country_cn": "伊朗",
+        "country": "Iran",
+        "ico": "IRI",
+        "fifa": "IRN",
+        "iso": "IRN",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg"
+    },
+    {
+        "country_cn": "伊拉克",
+        "country": "Iraq",
+        "ico": "IRQ",
+        "fifa": "IRQ",
+        "iso": "IRQ",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg"
+    },
+    {
+        "country_cn": "爱尔兰",
+        "country": "Ireland",
+        "ico": "IRL",
+        "fifa": "IRL",
+        "iso": "IRL",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg"
+    },
+    {
+        "country_cn": "马恩岛",
+        "country": "Isle of Man",
+        "ico": "",
+        "fifa": "",
+        "iso": "IMN",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_the_Isle_of_Man.svg"
+    },
+    {
+        "country_cn": "以色列",
+        "country": "Israel",
+        "ico": "ISR",
+        "fifa": "ISR",
+        "iso": "ISR",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg"
+    },
+    {
+        "country_cn": "意大利",
+        "country": "Italy",
+        "ico": "ITA",
+        "fifa": "ITA",
+        "iso": "ITA",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg"
+    },
+    {
+        "country_cn": "牙买加",
+        "country": "Jamaica",
+        "ico": "JAM",
+        "fifa": "JAM",
+        "iso": "JAM",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg"
+    },
+    {
+        "country_cn": "日本",
+        "country": "Japan",
+        "ico": "JPN",
+        "fifa": "JPN",
+        "iso": "JPN",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg"
+    },
+    {
+        "country_cn": "泽西",
+        "country": "Jersey",
+        "ico": "",
+        "fifa": "",
+        "iso": "JEY",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Flag_of_Jersey.svg"
+    },
+    {
+        "country_cn": "约旦",
+        "country": "Jordan",
+        "ico": "JOR",
+        "fifa": "JOR",
+        "iso": "JOR",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg"
+    },
+    {
+        "country_cn": "哈萨克斯坦",
+        "country": "Kazakhstan",
+        "ico": "KAZ",
+        "fifa": "KAZ",
+        "iso": "KAZ",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg"
+    },
+    {
+        "country_cn": "肯尼亚",
+        "country": "Kenya",
+        "ico": "KEN",
+        "fifa": "KEN",
+        "iso": "KEN",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg"
+    },
+    {
+        "country_cn": "基里巴斯",
+        "country": "Kiribati",
+        "ico": "KIR",
+        "fifa": "",
+        "iso": "KIR",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kiribati.svg"
+    },
+    {
+        "country_cn": "朝鲜民主主义人民共和国",
+        "country": "Democratic People's Republic of Korea",
+        "ico": "PRK",
+        "fifa": "PRK",
+        "iso": "PRK",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/5/51/Flag_of_North_Korea.svg"
+    },
+    {
+        "country_cn": "大韩民国",
+        "country": "Republic of Korea",
+        "ico": "KOR",
+        "fifa": "KOR",
+        "iso": "KOR",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg"
+    },
+    {
+        "country_cn": "科索沃",
+        "country": "Kosovo",
+        "ico": "KOS",
+        "fifa": "KVX",
+        "iso": "XKS",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Kosovo.svg"
+    },
+    {
+        "country_cn": "科威特",
+        "country": "Kuwait",
+        "ico": "KUW",
+        "fifa": "KUW",
+        "iso": "KWT",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg"
+    },
+    {
+        "country_cn": "吉尔吉斯斯坦",
+        "country": "Kyrgyzstan",
+        "ico": "KGZ",
+        "fifa": "KGZ",
+        "iso": "KGZ",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Kyrgyzstan.svg"
+    },
+    {
+        "country_cn": "老挝",
+        "country": "Laos",
+        "ico": "LAO",
+        "fifa": "LAO",
+        "iso": "LAO",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg"
+    },
+    {
+        "country_cn": "拉脱维亚",
+        "country": "Latvia",
+        "ico": "LAT",
+        "fifa": "LVA",
+        "iso": "LVA",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg"
+    },
+    {
+        "country_cn": "黎巴嫩",
+        "country": "Lebanon",
+        "ico": "LBN",
+        "fifa": "LIB",
+        "iso": "LBN",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg"
+    },
+    {
+        "country_cn": "莱索托",
+        "country": "Lesotho",
+        "ico": "LES",
+        "fifa": "LES",
+        "iso": "LSO",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Flag_of_Lesotho.svg"
+    },
+    {
+        "country_cn": "利比里亚",
+        "country": "Liberia",
+        "ico": "LBR",
+        "fifa": "LBR",
+        "iso": "LBR",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg"
+    },
+    {
+        "country_cn": "利比亚",
+        "country": "Libya",
+        "ico": "LBA",
+        "fifa": "LBY",
+        "iso": "LBY",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg"
+    },
+    {
+        "country_cn": "列支敦士登",
+        "country": "Liechtenstein",
+        "ico": "LIE",
+        "fifa": "LIE",
+        "iso": "LIE",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg"
+    },
+    {
+        "country_cn": "立陶宛",
+        "country": "Lithuania",
+        "ico": "LTU",
+        "fifa": "LTU",
+        "iso": "LTU",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg"
+    },
+    {
+        "country_cn": "卢森堡",
+        "country": "Luxembourg",
+        "ico": "LUX",
+        "fifa": "LUX",
+        "iso": "LUX",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg"
+    },
+    {
+        "country_cn": "澳门特别行政区",
+        "country": "Macau",
+        "ico": "",
+        "fifa": "MAC",
+        "iso": "MAC",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/6/63/Flag_of_Macau.svg"
+    },
+    {
+        "country_cn": "马达加斯加",
+        "country": "Madagascar",
+        "ico": "MAD",
+        "fifa": "MAD",
+        "iso": "MDG",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg"
+    },
+    {
+        "country_cn": "马拉维",
+        "country": "Malawi",
+        "ico": "MAW",
+        "fifa": "MWI",
+        "iso": "MWI",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg"
+    },
+    {
+        "country_cn": "马来西亚",
+        "country": "Malaysia",
+        "ico": "MAS",
+        "fifa": "MAS",
+        "iso": "MYS",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg"
+    },
+    {
+        "country_cn": "马尔代夫",
+        "country": "Maldives",
+        "ico": "MDV",
+        "fifa": "MDV",
+        "iso": "MDV",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg"
+    },
+    {
+        "country_cn": "马里",
+        "country": "Mali",
+        "ico": "MLI",
+        "fifa": "MLI",
+        "iso": "MLI",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg"
+    },
+    {
+        "country_cn": "马耳他",
+        "country": "Malta",
+        "ico": "MLT",
+        "fifa": "MLT",
+        "iso": "MLT",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg"
+    },
+    {
+        "country_cn": "马绍尔群岛",
+        "country": "Marshall Islands",
+        "ico": "MHL",
+        "fifa": "",
+        "iso": "MHL",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_the_Marshall_Islands.svg"
+    },
+    {
+        "country_cn": "马提尼克",
+        "country": "Martinique",
+        "ico": "",
+        "fifa": "",
+        "iso": "MTQ",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag-of-Martinique.svg"
+    },
+    {
+        "country_cn": "毛里塔尼亚",
+        "country": "Mauritania",
+        "ico": "MTN",
+        "fifa": "MTN",
+        "iso": "MRT",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg"
+    },
+    {
+        "country_cn": "毛里求斯",
+        "country": "Mauritius",
+        "ico": "MRI",
+        "fifa": "MRI",
+        "iso": "MUS",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Mauritius.svg"
+    },
+    {
+        "country_cn": "马约特",
+        "country": "Mayotte",
+        "ico": "",
+        "fifa": "",
+        "iso": "MYT",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Mayotte_%28Local%29.svg"
+    },
+    {
+        "country_cn": "墨西哥",
+        "country": "Mexico",
+        "ico": "MEX",
+        "fifa": "MEX",
+        "iso": "MEX",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg"
+    },
+    {
+        "country_cn": "密克罗尼西亚联邦",
+        "country": "Federated States of Micronesia",
+        "ico": "FSM",
+        "fifa": "",
+        "iso": "FSM",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg"
+    },
+    {
+        "country_cn": "摩尔多瓦",
+        "country": "Moldova",
+        "ico": "MDA",
+        "fifa": "MDA",
+        "iso": "MDA",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg"
+    },
+    {
+        "country_cn": "摩纳哥",
+        "country": "Monaco",
+        "ico": "MON",
+        "fifa": "",
+        "iso": "MCO",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg"
+    },
+    {
+        "country_cn": "蒙古国",
+        "country": "Mongolia",
+        "ico": "MGL",
+        "fifa": "MNG",
+        "iso": "MNG",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg"
+    },
+    {
+        "country_cn": "黑山",
+        "country": "Montenegro",
+        "ico": "MNE",
+        "fifa": "MNE",
+        "iso": "MNE",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg"
+    },
+    {
+        "country_cn": "蒙特塞拉特",
+        "country": "Montserrat",
+        "ico": "",
+        "fifa": "MSR",
+        "iso": "MSR",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Montserrat.svg"
+    },
+    {
+        "country_cn": "摩洛哥",
+        "country": "Morocco",
+        "ico": "MAR",
+        "fifa": "MAR",
+        "iso": "MAR",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg"
+    },
+    {
+        "country_cn": "莫桑比克",
+        "country": "Mozambique",
+        "ico": "MOZ",
+        "fifa": "MOZ",
+        "iso": "MOZ",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg"
+    },
+    {
+        "country_cn": "缅甸",
+        "country": "Myanmar",
+        "ico": "MYA",
+        "fifa": "MYA",
+        "iso": "MMR",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg"
+    },
+    {
+        "country_cn": "纳米比亚",
+        "country": "Namibia",
+        "ico": "NAM",
+        "fifa": "NAM",
+        "iso": "NAM",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg"
+    },
+    {
+        "country_cn": "瑙鲁",
+        "country": "Nauru",
+        "ico": "NRU",
+        "fifa": "",
+        "iso": "NRU",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Nauru.svg"
+    },
+    {
+        "country_cn": "尼泊尔",
+        "country": "Nepal",
+        "ico": "NEP",
+        "fifa": "NEP",
+        "iso": "NPL",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg"
+    },
+    {
+        "country_cn": "荷兰",
+        "country": "Netherlands",
+        "ico": "NED",
+        "fifa": "NED",
+        "iso": "NLD",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg"
+    },
+    {
+        "country_cn": "新喀里多尼亚",
+        "country": "New Caledonia",
+        "ico": "",
+        "fifa": "NCL",
+        "iso": "NCL",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/2/26/Flags_of_New_Caledonia.svg"
+    },
+    {
+        "country_cn": "新西兰",
+        "country": "New Zealand",
+        "ico": "NZL",
+        "fifa": "NZL",
+        "iso": "NZL",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg"
+    },
+    {
+        "country_cn": "尼加拉瓜",
+        "country": "Nicaragua",
+        "ico": "NCA",
+        "fifa": "NCA",
+        "iso": "NIC",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg"
+    },
+    {
+        "country_cn": "尼日尔",
+        "country": "Niger",
+        "ico": "NIG",
+        "fifa": "NIG",
+        "iso": "NER",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg"
+    },
+    {
+        "country_cn": "尼日利亚",
+        "country": "Nigeria",
+        "ico": "NGR",
+        "fifa": "NGA",
+        "iso": "NGA",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
+    },
+    {
+        "country_cn": "纽埃",
+        "country": "Niue",
+        "ico": "",
+        "fifa": "",
+        "iso": "NIU",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Niue.svg"
+    },
+    {
+        "country_cn": "诺福克岛",
+        "country": "Norfolk Island",
+        "ico": "",
+        "fifa": "",
+        "iso": "NFK",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Norfolk_Island.svg"
+    },
+    {
+        "country_cn": "北马其顿",
+        "country": "North Macedonia",
+        "ico": "MKD",
+        "fifa": "MKD",
+        "iso": "MKD",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg"
+    },
+    {
+        "country_cn": "北马里亚纳群岛",
+        "country": "Northern Mariana Islands",
+        "ico": "",
+        "fifa": "",
+        "iso": "MNP",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Flag_of_the_Northern_Mariana_Islands.svg"
+    },
+    {
+        "country_cn": "挪威",
+        "country": "Norway",
+        "ico": "NOR",
+        "fifa": "NOR",
+        "iso": "NOR",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg"
+    },
+    {
+        "country_cn": "阿曼",
+        "country": "Oman",
+        "ico": "OMA",
+        "fifa": "OMA",
+        "iso": "OMN",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg"
+    },
+    {
+        "country_cn": "巴基斯坦",
+        "country": "Pakistan",
+        "ico": "PAK",
+        "fifa": "PAK",
+        "iso": "PAK",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+    },
+    {
+        "country_cn": "帕劳",
+        "country": "Palau",
+        "ico": "PLW",
+        "fifa": "",
+        "iso": "PLW",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg"
+    },
+    {
+        "country_cn": "巴勒斯坦",
+        "country": "State of Palestine",
+        "ico": "PLE",
+        "fifa": "PLE",
+        "iso": "PSE",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg"
+    },
+    {
+        "country_cn": "巴拿马",
+        "country": "Panama",
+        "ico": "PAN",
+        "fifa": "PAN",
+        "iso": "PAN",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg"
+    },
+    {
+        "country_cn": "巴布亚新几内亚",
+        "country": "Papua New Guinea",
+        "ico": "PNG",
+        "fifa": "PNG",
+        "iso": "PNG",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Papua_New_Guinea.svg"
+    },
+    {
+        "country_cn": "巴拉圭",
+        "country": "Paraguay",
+        "ico": "PAR",
+        "fifa": "PAR",
+        "iso": "PRY",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg"
+    },
+    {
+        "country_cn": "秘鲁",
+        "country": "Peru",
+        "ico": "PER",
+        "fifa": "PER",
+        "iso": "PER",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg"
+    },
+    {
+        "country_cn": "菲律宾",
+        "country": "Philippines",
+        "ico": "PHI",
+        "fifa": "PHI",
+        "iso": "PHL",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg"
+    },
+    {
+        "country_cn": "皮特凯恩群岛",
+        "country": "Pitcairn Islands",
+        "ico": "",
+        "fifa": "",
+        "iso": "PCN",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_the_Pitcairn_Islands.svg"
+    },
+    {
+        "country_cn": "波兰",
+        "country": "Poland",
+        "ico": "POL",
+        "fifa": "POL",
+        "iso": "POL",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg"
+    },
+    {
+        "country_cn": "葡萄牙",
+        "country": "Portugal",
+        "ico": "POR",
+        "fifa": "POR",
+        "iso": "PRT",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"
+    },
+    {
+        "country_cn": "波多黎各",
+        "country": "Puerto Rico",
+        "ico": "PUR",
+        "fifa": "PUR",
+        "iso": "PRI",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/2/28/Flag_of_Puerto_Rico.svg"
+    },
+    {
+        "country_cn": "卡塔尔",
+        "country": "Qatar",
+        "ico": "QAT",
+        "fifa": "QAT",
+        "iso": "QAT",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg"
+    },
+    {
+        "country_cn": "留尼汪",
+        "country": "Réunion",
+        "ico": "",
+        "fifa": "",
+        "iso": "REU",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg"
+    },
+    {
+        "country_cn": "罗马尼亚",
+        "country": "Romania",
+        "ico": "ROU",
+        "fifa": "ROU",
+        "iso": "ROU",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg"
+    },
+    {
+        "country_cn": "俄罗斯",
+        "country": "Russian Federation",
+        "ico": "RUS",
+        "fifa": "RUS",
+        "iso": "RUS",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg"
+    },
+    {
+        "country_cn": "卢旺达",
+        "country": "Rwanda",
+        "ico": "RWA",
+        "fifa": "RWA",
+        "iso": "RWA",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg"
+    },
+    {
+        "country_cn": "圣巴泰勒米",
+        "country": "Saint Barthélemy",
+        "ico": "",
+        "fifa": "",
+        "iso": "BLM",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg"
+    },
+    {
+        "country_cn": "圣赫勒拿、阿森松和特里斯坦-达库尼亚",
+        "country": "Saint Helena, Ascension and Tristan da Cunha",
+        "ico": "",
+        "fifa": "",
+        "iso": "SHN",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"
+    },
+    {
+        "country_cn": "圣基茨和尼维斯",
+        "country": "Saint Kitts and Nevis",
+        "ico": "SKN",
+        "fifa": "SKN",
+        "iso": "KNA",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg"
+    },
+    {
+        "country_cn": "圣卢西亚",
+        "country": "Saint Lucia",
+        "ico": "LCA",
+        "fifa": "LCA",
+        "iso": "LCA",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg"
+    },
+    {
+        "country_cn": "法属圣马丁",
+        "country": "Saint Martin (French part)",
+        "ico": "",
+        "fifa": "",
+        "iso": "MAF",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg"
+    },
+    {
+        "country_cn": "圣皮埃尔和密克隆",
+        "country": "Saint Pierre and Miquelon",
+        "ico": "",
+        "fifa": "",
+        "iso": "SPM",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_Saint-Pierre_and_Miquelon.svg"
+    },
+    {
+        "country_cn": "圣文森特和格林纳丁斯",
+        "country": "Saint Vincent and the Grenadines",
+        "ico": "VIN",
+        "fifa": "VIN",
+        "iso": "VCT",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg"
+    },
+    {
+        "country_cn": "萨摩亚",
+        "country": "Samoa",
+        "ico": "SAM",
+        "fifa": "SAM",
+        "iso": "WSM",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Samoa.svg"
+    },
+    {
+        "country_cn": "圣马力诺",
+        "country": "San Marino",
+        "ico": "SMR",
+        "fifa": "SMR",
+        "iso": "SMR",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg"
+    },
+    {
+        "country_cn": "圣多美和普林西比",
+        "country": "São Tomé and Príncipe",
+        "ico": "STP",
+        "fifa": "STP",
+        "iso": "STP",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg"
+    },
+    {
+        "country_cn": "沙特阿拉伯",
+        "country": "Saudi Arabia",
+        "ico": "KSA",
+        "fifa": "KSA",
+        "iso": "SAU",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg"
+    },
+    {
+        "country_cn": "塞内加尔",
+        "country": "Senegal",
+        "ico": "SEN",
+        "fifa": "SEN",
+        "iso": "SEN",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg"
+    },
+    {
+        "country_cn": "塞尔维亚",
+        "country": "Serbia",
+        "ico": "SRB",
+        "fifa": "SRB",
+        "iso": "SRB",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg"
+    },
+    {
+        "country_cn": "塞舌尔",
+        "country": "Seychelles",
+        "ico": "SEY",
+        "fifa": "SEY",
+        "iso": "SYC",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Seychelles.svg"
+    },
+    {
+        "country_cn": "塞拉利昂",
+        "country": "Sierra Leone",
+        "ico": "SLE",
+        "fifa": "SLE",
+        "iso": "SLE",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg"
+    },
+    {
+        "country_cn": "新加坡",
+        "country": "Singapore",
+        "ico": "SGP",
+        "fifa": "SIN",
+        "iso": "SGP",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg"
+    },
+    {
+        "country_cn": "荷属圣马丁",
+        "country": "Sint Maarten (Dutch part)",
+        "ico": "",
+        "fifa": "",
+        "iso": "SXM",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Sint_Maarten.svg"
+    },
+    {
+        "country_cn": "斯洛伐克",
+        "country": "Slovakia",
+        "ico": "SVK",
+        "fifa": "SVK",
+        "iso": "SVK",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg"
+    },
+    {
+        "country_cn": "斯洛文尼亚",
+        "country": "Slovenia",
+        "ico": "SLO",
+        "fifa": "SVN",
+        "iso": "SVN",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg"
+    },
+    {
+        "country_cn": "所罗门群岛",
+        "country": "Solomon Islands",
+        "ico": "SOL",
+        "fifa": "SOL",
+        "iso": "SLB",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Solomon_Islands.svg"
+    },
+    {
+        "country_cn": "索马里",
+        "country": "Somalia",
+        "ico": "SOM",
+        "fifa": "SOM",
+        "iso": "SOM",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg"
+    },
+    {
+        "country_cn": "南非",
+        "country": "South Africa",
+        "ico": "RSA",
+        "fifa": "RSA",
+        "iso": "ZAF",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg"
+    },
+    {
+        "country_cn": "南乔治亚和南桑威奇群岛",
+        "country": "South Georgia and the South Sandwich Islands",
+        "ico": "",
+        "fifa": "",
+        "iso": "SGS",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg"
+    },
+    {
+        "country_cn": "南苏丹",
+        "country": "South Sudan",
+        "ico": "SSD",
+        "fifa": "SSD",
+        "iso": "SSD",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_South_Sudan.svg"
+    },
+    {
+        "country_cn": "西班牙",
+        "country": "Spain",
+        "ico": "ESP",
+        "fifa": "ESP",
+        "iso": "ESP",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg"
+    },
+    {
+        "country_cn": "斯里兰卡",
+        "country": "Sri Lanka",
+        "ico": "SRI",
+        "fifa": "SRI",
+        "iso": "LKA",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg"
+    },
+    {
+        "country_cn": "苏丹",
+        "country": "Sudan",
+        "ico": "SUD",
+        "fifa": "SDN",
+        "iso": "SDN",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg"
+    },
+    {
+        "country_cn": "苏里南",
+        "country": "Suriname",
+        "ico": "SUR",
+        "fifa": "SUR",
+        "iso": "SUR",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg"
+    },
+    {
+        "country_cn": "斯瓦尔巴和扬马延",
+        "country": "Svalbard and Jan Mayen",
+        "ico": "",
+        "fifa": "",
+        "iso": "SJM",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg"
+    },
+    {
+        "country_cn": "瑞典",
+        "country": "Sweden",
+        "ico": "SWE",
+        "fifa": "SWE",
+        "iso": "SWE",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg"
+    },
+    {
+        "country_cn": "瑞士",
+        "country": "Switzerland",
+        "ico": "SUI",
+        "fifa": "SUI",
+        "iso": "CHE",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg"
+    },
+    {
+        "country_cn": "叙利亚",
+        "country": "Syria",
+        "ico": "SYR",
+        "fifa": "SYR",
+        "iso": "SYR",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Syria_%282025-%29.svg"
+    },
+    {
+        "country_cn": "中华民国",
+        "country": "Republic of China",
+        "ico": "TPE",
+        "fifa": "TPE",
+        "iso": "TWN",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg"
+    },
+    {
+        "country_cn": "塔吉克斯坦",
+        "country": "Tajikistan",
+        "ico": "TJK",
+        "fifa": "TJK",
+        "iso": "TJK",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Tajikistan.svg"
+    },
+    {
+        "country_cn": "坦桑尼亚",
+        "country": "Tanzania",
+        "ico": "TAN",
+        "fifa": "TAN",
+        "iso": "TZA",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg"
+    },
+    {
+        "country_cn": "泰国",
+        "country": "Thailand",
+        "ico": "THA",
+        "fifa": "THA",
+        "iso": "THA",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg"
+    },
+    {
+        "country_cn": "东帝汶",
+        "country": "Timor-Leste",
+        "ico": "TLS",
+        "fifa": "TLS",
+        "iso": "TLS",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_East_Timor.svg"
+    },
+    {
+        "country_cn": "多哥",
+        "country": "Togo",
+        "ico": "TOG",
+        "fifa": "TOG",
+        "iso": "TGO",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg"
+    },
+    {
+        "country_cn": "托克劳",
+        "country": "Tokelau",
+        "ico": "",
+        "fifa": "",
+        "iso": "TKL",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Flag_of_Tokelau.svg"
+    },
+    {
+        "country_cn": "汤加",
+        "country": "Tonga",
+        "ico": "TGA",
+        "fifa": "TGA",
+        "iso": "TON",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Tonga.svg"
+    },
+    {
+        "country_cn": "特立尼达和多巴哥",
+        "country": "Trinidad and Tobago",
+        "ico": "TTO",
+        "fifa": "TRI",
+        "iso": "TTO",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg"
+    },
+    {
+        "country_cn": "突尼斯",
+        "country": "Tunisia",
+        "ico": "TUN",
+        "fifa": "TUN",
+        "iso": "TUN",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg"
+    },
+    {
+        "country_cn": "土耳其",
+        "country": "Turkey",
+        "ico": "TUR",
+        "fifa": "TUR",
+        "iso": "TUR",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
+    },
+    {
+        "country_cn": "土库曼斯坦",
+        "country": "Turkmenistan",
+        "ico": "TKM",
+        "fifa": "TKM",
+        "iso": "TKM",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg"
+    },
+    {
+        "country_cn": "特克斯和凯科斯群岛",
+        "country": "Turks and Caicos Islands",
+        "ico": "",
+        "fifa": "TCA",
+        "iso": "TCA",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_the_Turks_and_Caicos_Islands.svg"
+    },
+    {
+        "country_cn": "图瓦卢",
+        "country": "Tuvalu",
+        "ico": "TUV",
+        "fifa": "",
+        "iso": "TUV",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tuvalu.svg"
+    },
+    {
+        "country_cn": "乌干达",
+        "country": "Uganda",
+        "ico": "UGA",
+        "fifa": "UGA",
+        "iso": "UGA",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg"
+    },
+    {
+        "country_cn": "乌克兰",
+        "country": "Ukraine",
+        "ico": "UKR",
+        "fifa": "UKR",
+        "iso": "UKR",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"
+    },
+    {
+        "country_cn": "阿联酋",
+        "country": "United Arab Emirates",
+        "ico": "UAE",
+        "fifa": "UAE",
+        "iso": "ARE",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg"
+    },
+    {
+        "country_cn": "英国",
+        "country": "United Kingdom of Great Britain and Northern Ireland",
+        "ico": "GBR",
+        "fifa": "",
+        "iso": "GBR",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg"
+    },
+    {
+        "country_cn": "美国",
+        "country": "United States of America",
+        "ico": "USA",
+        "fifa": "USA",
+        "iso": "USA",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg"
+    },
+    {
+        "country_cn": "美国本土外小岛屿",
+        "country": "United States Minor Outlying Islands",
+        "ico": "",
+        "fifa": "",
+        "iso": "UMI",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg"
+    },
+    {
+        "country_cn": "美属维尔京群岛",
+        "country": "United States Virgin Islands",
+        "ico": "ISV",
+        "fifa": "VIR",
+        "iso": "VIR",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Flag_of_the_United_States_Virgin_Islands.svg"
+    },
+    {
+        "country_cn": "乌拉圭",
+        "country": "Uruguay",
+        "ico": "URU",
+        "fifa": "URU",
+        "iso": "URY",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg"
+    },
+    {
+        "country_cn": "乌兹别克斯坦",
+        "country": "Uzbekistan",
+        "ico": "UZB",
+        "fifa": "UZB",
+        "iso": "UZB",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg"
+    },
+    {
+        "country_cn": "瓦努阿图",
+        "country": "Vanuatu",
+        "ico": "VAN",
+        "fifa": "VAN",
+        "iso": "VUT",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Vanuatu.svg"
+    },
+    {
+        "country_cn": "梵蒂冈",
+        "country": "Vatican City State",
+        "ico": "",
+        "fifa": "",
+        "iso": "VAT",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Flag_of_Vatican_City_%282023%E2%80%93present%29.svg"
+    },
+    {
+        "country_cn": "委内瑞拉",
+        "country": "Venezuela",
+        "ico": "VEN",
+        "fifa": "VEN",
+        "iso": "VEN",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg"
+    },
+    {
+        "country_cn": "越南",
+        "country": "Vietnam",
+        "ico": "VIE",
+        "fifa": "VIE",
+        "iso": "VNM",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg"
+    },
+    {
+        "country_cn": "瓦利斯和富图纳",
+        "country": "Wallis and Futuna",
+        "ico": "",
+        "fifa": "",
+        "iso": "WLF",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg"
+    },
+    {
+        "country_cn": "西撒哈拉",
+        "country": "Western Sahara",
+        "ico": "",
+        "fifa": "",
+        "iso": "ESH",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_the_Sahrawi_Arab_Democratic_Republic.svg"
+    },
+    {
+        "country_cn": "也门",
+        "country": "Yemen",
+        "ico": "YEM",
+        "fifa": "YEM",
+        "iso": "YEM",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg"
+    },
+    {
+        "country_cn": "赞比亚",
+        "country": "Zambia",
+        "ico": "ZAM",
+        "fifa": "ZAM",
+        "iso": "ZMB",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg"
+    },
+    {
+        "country_cn": "津巴布韦",
+        "country": "Zimbabwe",
+        "ico": "ZIM",
+        "fifa": "ZIM",
+        "iso": "ZWE",
+        "svg": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+    }
+]
